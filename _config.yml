@@ -13,9 +13,9 @@ locale: "en-UK"
 title: "Masumi Stadler"
 name: "Masumi Stadler"
 description: ""
-url: "https://masumistadler.github.io"
+url: "https://masumistadler.research.github.io"
 baseurl: "/"
-repository: "masumistadler/masumistadler.github.io"
+repository: "masumistadler/masumistadler.research.github.io"
 
 minimal_mistakes_skin: default
 search: true
